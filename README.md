@@ -1,5 +1,5 @@
 # turkomator
-a simple turkish dictionary app with jetpack compose
+a simple turkish dictionary app built with jetpack compose
 
 this project is mainly done for learning purposes, so it may contain lots of bad/worst practices.
 <br />
