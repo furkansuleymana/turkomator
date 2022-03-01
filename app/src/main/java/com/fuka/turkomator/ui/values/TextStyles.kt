@@ -8,7 +8,7 @@ import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.withStyle
 
-class TextStyles() {
+class TextStyles {
     /*
     this is the header composable text.
     FontWeight.W900
